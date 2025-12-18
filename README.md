@@ -1,1 +1,1 @@
-# diabet_detection
+# blood_detection
